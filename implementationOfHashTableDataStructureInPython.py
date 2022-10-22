@@ -3,15 +3,15 @@
 
 # Step 1. Create a hash table (empty list) in constructor
 class HashTable:
-    def __init__(self):
-        self.data_map = []
+    def __init__(self, size=10):
+        self.data_map = [None] * size
 
     # whenever an object of Hashtable will be created it will initialize empty list
     # Step 2. Create a Hash Function, to get an integer value of array index
     def _hash_value(self, key):
         hash_key = 0
         for letters in key:
-            hash_key = (hash_key + ord(key) * 23) % len(self.data_map)
+            hash_key = (hash_key + ord(letters) * 23) % len(self.data_map)
         return hash_key
 
     # Step 3. Print the list
@@ -28,5 +28,8 @@ class HashTable:
 
 
 # Test the methods
-myhashtable = HashTable()
-myhashtable.print_table()
+
+myHashTable = HashTable()
+myHashTable.set_item("Divey", "Male")
+myHashTable.set_item("Divey", "C11/12A-3rd Floor")
+myHashTable.print_table()
