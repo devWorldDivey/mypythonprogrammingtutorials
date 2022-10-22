@@ -18,3 +18,15 @@ class HashTable:
     def print_table(self):
         for i, value in enumerate(self.data_map):
             print(i, " ", value)
+
+    # Step 4. Below function will set the value in the list
+    def set_item(self, key, value):
+        index = self._hash_value(key)
+        if self.data_map[index] is None:
+            self.data_map[index] = []
+        self.data_map[index].append([key, value])
+
+
+# Test the methods
+myhashtable = HashTable()
+myhashtable.print_table()
