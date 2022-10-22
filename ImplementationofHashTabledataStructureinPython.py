@@ -1,1 +1,0 @@
-print("Problem solution for copy list with random point")
