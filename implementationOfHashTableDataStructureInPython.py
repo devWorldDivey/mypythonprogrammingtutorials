@@ -26,10 +26,20 @@ class HashTable:
             self.data_map[index] = []
         self.data_map[index].append([key, value])
 
+    # Step 5. Below function will get the value in the list
+    def get_item(self, key):
+        index = self._hash_value(key)
+        if self.data_map[index] is not None:
+            for i in range(len(self.data_map[index])):
+                if self.data_map[index][i][0] == key:
+                    return self.data_map[index][i][1]
+
 
 # Test the methods
 
 myHashTable = HashTable()
-myHashTable.set_item("Divey", "Male")
+myHashTable.set_item("Dive", "Male")
 myHashTable.set_item("Divey", "C11/12A-3rd Floor")
+myHashTable.set_item("Divey", 101)
+print(myHashTable.get_item("Divey"))
 myHashTable.print_table()
