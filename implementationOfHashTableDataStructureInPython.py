@@ -34,6 +34,15 @@ class HashTable:
                 if self.data_map[index][i][0] == key:
                     return self.data_map[index][i][1]
 
+    # Step 6. Below function is used to get the keys
+    def keys(self):
+        all_keys = []
+        for i in range(len(self.data_map)):
+            if self.data_map[i] is not None:
+                for j in range(len(self.data_map[i])):
+                    all_keys.append(self.data_map[i][j][0])
+        return all_keys
+
 
 # Test the methods
 
@@ -42,4 +51,5 @@ myHashTable.set_item("Dive", "Male")
 myHashTable.set_item("Divey", "C11/12A-3rd Floor")
 myHashTable.set_item("Divey", 101)
 print(myHashTable.get_item("Divey"))
+print(myHashTable.keys())
 myHashTable.print_table()
