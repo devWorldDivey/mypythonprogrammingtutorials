@@ -11,8 +11,6 @@ Return the generated matrix.
 https://leetcode.com/problems/largest-local-values-in-a-matrix/
 """
 grid = [[9, 9, 8, 1], [5, 6, 2, 6], [8, 2, 6, 4], [6, 2, 2, 2]]
-
-
 class Solution:
     def largestLocal(self, grid: list[list[int]]) -> list[list[int]]:
         print(len(grid))
