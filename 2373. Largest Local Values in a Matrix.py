@@ -13,8 +13,19 @@ https://leetcode.com/problems/largest-local-values-in-a-matrix/
 grid = [[9, 9, 8, 1], [5, 6, 2, 6], [8, 2, 6, 4], [6, 2, 2, 2]]
 class Solution:
     def largestLocal(self, grid: list[list[int]]) -> list[list[int]]:
-        print(len(grid))
+        n = len(grid)
+        local_value = []
 
+        for row in range(n-2):
+            local_value.append([])
+            for col in range(n-2):
+                row_one = max(grid[row][col:col+3])
+                row_two = max(grid[row+1][col:col+3])
+                row_three = max(grid[row+2][col:col+3])
+
+                max_local = max(row_one,row_two,row_three)
+                local_value[row].append((max_local))
+        print(local_value)
 
 mysol1 = Solution()
 mysol1.largestLocal(grid)
