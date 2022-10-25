@@ -52,5 +52,6 @@ myHashSet.contains(2)  # // return True
 myHashSet.remove(2)  # // set = [1]
 myHashSet.contains(2)  # // return False, (already removed)
 
+# Use of set in python
 list1 = [1, 2, 3, 4, 5, 7, 1, 3]
 print(list(set(list1)))
