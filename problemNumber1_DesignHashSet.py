@@ -22,3 +22,35 @@
         myHashSet.remove(2);   // set = [1]
         myHashSet.contains(2); // return False, (already removed)
 """
+
+
+class HashTable:
+    def __init__(self):
+        self.myhashtable = []
+
+    def add(self, value):
+        self.myhashtable.append(value)
+
+    def contains(self, value):
+        if value in self.myhashtable:
+            return True
+        else:
+            return False
+
+    def remove(self, value):
+        indexofvalue = self.myhashtable.index(value)
+        del self.myhashtable[indexofvalue]
+
+
+myHashSet = HashTable()
+myHashSet.add(1)  # // set = [1]
+myHashSet.add(2)  # // set = [1, 2]
+myHashSet.contains(1)  # // return True
+myHashSet.contains(3)  # // return False, (not found)
+myHashSet.add(2)  # // set = [1, 2]
+myHashSet.contains(2)  # // return True
+myHashSet.remove(2)  # // set = [1]
+myHashSet.contains(2)  # // return False, (already removed)
+
+list1 = [1, 2, 3, 4, 5, 7, 1, 3]
+print(list(set(list1)))
