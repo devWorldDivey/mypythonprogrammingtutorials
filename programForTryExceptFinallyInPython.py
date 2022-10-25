@@ -6,4 +6,4 @@ try:
 except Exception as e:
     print(e)
 finally:
-    print("Opps, Sorry I can't divide !!!!!")
+    print("Program Closed")
