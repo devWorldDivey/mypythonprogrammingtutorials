@@ -24,6 +24,7 @@ arr = [1, 4, 2, 5, 3]
 
 class Solution:
     def sumOddLengthSubArrays(self, arr: list[int]) -> int:
+        """
         sum1 = 0
         for i in range(len(arr)):
 
@@ -33,6 +34,17 @@ class Solution:
                 print("arr[i:j+1]-----",i,j+1,arr[i:j+1])
                 print(sum1)
         return sum1
+        """
+        sum1 = 0
+        subarr = []
+        n = len(arr)
+        for i in range(n):
+            for j in range(i + 1, n + 1):
+                # print(j)
+                # subarr.append(arr[i:j])
+                if (j-i)%2:
+                    sum1 += sum(arr[i:j])
+        print(sum1)
 
 
 mySol1 = Solution()
