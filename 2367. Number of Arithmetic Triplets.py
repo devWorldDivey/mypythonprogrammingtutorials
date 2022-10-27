@@ -9,10 +9,9 @@ nums[k] - nums[j] == diff.
 Return the number of unique arithmetic triplets.
 
 """
-nums = [4, 5, 6, 7, 8, 9]
-diff = 2
 
 
+"""
 class Solution:
     def arithmeticTriplets(self, nums: list[int], diff: int) -> int:
         print(nums, "---", diff)
@@ -22,6 +21,14 @@ class Solution:
                 if i + diff + diff in nums:
                     count += 1
         print(count)
+"""
+nums = [4, 5, 6, 7, 8, 9]
+diff = 2
+
+
+class Solution:
+    def arithmeticTriplets(self, nums: list[int], diff: int) -> int:
+        pass
 
 
 mySol1 = Solution()
