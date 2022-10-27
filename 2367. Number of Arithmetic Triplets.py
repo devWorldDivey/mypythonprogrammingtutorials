@@ -28,7 +28,8 @@ diff = 2
 
 class Solution:
     def arithmeticTriplets(self, nums: list[int], diff: int) -> int:
-        pass
+        self.arr = ["None"]*5
+        print(self.arr)
 
 
 mySol1 = Solution()
