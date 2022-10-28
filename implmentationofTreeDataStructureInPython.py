@@ -29,13 +29,31 @@ class BinarySearchTree:
                     return True
                 temp = temp.right
 
+    def contains(self, value):
+        temp = self.root
+        while temp is not None:
+            if value < temp.value:
+                temp = temp.left
+            elif value > temp.value:
+                temp = temp.right
+            else:
+                return True
+        return False
+
+    def min_value_node(self, current_node):
+        while current_node.left is not None:
+            current_node = current_node.left
+        return current_node
+
 
 my_tree = BinarySearchTree()
-my_tree.insert(2)
-my_tree.insert(1)
-my_tree.insert(3)
-my_tree.insert(5)
+my_tree.insert(47)
+my_tree.insert(21)
+my_tree.insert(76)
+my_tree.insert(18)
+my_tree.insert(27)
+my_tree.insert(52)
+my_tree.insert(82)
 
-print("Root:", my_tree.root.value)
-print("Root->Left:", my_tree.root.left.value)
-print("Root->Right:", my_tree.root.right.right.value)
+print('Minimum Value in Tree:')
+print(my_tree.min_value_node(my_tree.root).value)
