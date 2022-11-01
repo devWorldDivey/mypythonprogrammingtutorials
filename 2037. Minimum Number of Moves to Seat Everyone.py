@@ -21,10 +21,17 @@ Explanation: The students are moved as follows:
 - The third student is moved from position 4 to position 3 using 1 move.
 In total, 1 + 2 + 1 = 4 moves were used.
 """
-seats = [3, 1, 5]
-students = [2, 7, 4]
-my_seat = {}
-print(set(sorted(seats, reverse=False)))
-counter = 0
-for i in students:
-    counter = i -
+
+seats = [3,1,5]
+students = [2,7,4]
+class Solution:
+    def minMovesToSeat(self, seats: list[int], students: list[int]) -> int:
+        moves = 0
+
+        for seat, student in zip(sorted(seats), sorted(students)):
+            moves += abs(seat - student)
+
+        return moves
+
+my_sol = Solution()
+print(my_sol.minMovesToSeat(seats,students))
