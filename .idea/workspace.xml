@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/2006. Count Number of Pairs With Absolute Difference K.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/implementationOfGraphDataStructureinPython.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,20 +67,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666170614808</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Initial Commit">
-      <created>1666424672815</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1666424672815</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Initial Commit">
-      <created>1666425125492</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1666425125492</updated>
     </task>
     <task id="LOCAL-00007" summary="Initial Commit">
       <created>1666425657969</created>
@@ -409,7 +397,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667064045937</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Initial Commit">
+      <created>1667185547506</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1667185547507</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Initial Commit">
+      <created>1667185750236</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1667185750236</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -445,6 +447,11 @@
           <url>file://$PROJECT_DIR$/Algorithm-PrefixSum-Implementation.py</url>
           <line>3</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2006. Count Number of Pairs With Absolute Difference K.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
