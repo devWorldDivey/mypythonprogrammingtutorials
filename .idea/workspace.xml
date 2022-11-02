@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="Initial Commit" />
+    <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/1108. Defanging an IP Address.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1684. Count the Number of Consistent Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/771. Jewels and Stones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/implementationofBubbleSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,13 +69,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666170614808</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Initial Commit">
-      <created>1666461242077</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1666461242077</updated>
     </task>
     <task id="LOCAL-00014" summary="Initial Commit">
       <created>1666621295023</created>
@@ -407,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667379304621</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Initial Commit">
+      <created>1667379817421</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1667379817422</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -448,6 +454,11 @@
           <url>file://$PROJECT_DIR$/2006. Count Number of Pairs With Absolute Difference K.py</url>
           <line>29</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/implementationofBubbleSort.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
