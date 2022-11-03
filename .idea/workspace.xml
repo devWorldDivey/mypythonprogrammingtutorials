@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/1108. Defanging an IP Address.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1684. Count the Number of Consistent Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/771. Jewels and Stones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/implementationofBubbleSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="Initial Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,13 +63,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666170614808</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Initial Commit">
-      <created>1666621295023</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1666621295023</updated>
     </task>
     <task id="LOCAL-00015" summary="Initial Commit">
       <created>1666621393490</created>
@@ -413,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667379817422</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Initial Commit">
+      <created>1667403499573</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1667403499573</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
