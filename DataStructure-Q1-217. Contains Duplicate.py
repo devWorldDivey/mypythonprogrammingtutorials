@@ -4,9 +4,13 @@ Example 1:
 Input: nums = [1,2,3,1]
 Output: true
 """
-nums = [1,2,3]
+nums = [1, 2, 3]
+
+
 class Solution:
     def containsDuplicate(self, nums: list[int]) -> bool:
         return len(nums) != len(set(nums))
+
+
 my_sol1 = Solution()
 print(my_sol1.containsDuplicate(nums))
