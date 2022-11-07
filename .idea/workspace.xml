@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="Initial Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode Problems/1. Two Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode Problems/1. Two Sum.py" afterDir="false" />
-    </list>
+    <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="Initial Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666170614808</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Initial Commit">
-      <created>1666693846293</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1666693846293</updated>
     </task>
     <task id="LOCAL-00028" summary="Initial Commit">
       <created>1666698512244</created>
@@ -413,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667807221761</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Initial Commit">
+      <created>1667810059753</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1667810059753</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
