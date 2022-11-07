@@ -20,9 +20,19 @@ n = 3
 
 class Solution:
     def merge(self, nums1: list[int], m: int, nums2: list[int], n: int) -> None:
-        nums3 = nums1 + nums2
-        print(nums3)
+        """# Method 1 Use of Sort Method - TC O(nlogn)
+        nums3 = nums1[:m] + nums2[:n]
+        nums1 = sorted(nums3)
+        return nums1
+        """
+        nums1 = nums1[:m]
+        for i in range(len(nums1)):
+            if nums1[i] < nums2[0]:
+                nums1.insert(i+1, nums2[0])
+                nums1[i+1], nums2[0] = nums2[0], nums1[i+1]
+                nums2.sort()
+        print(nums1+nums2[1:n])
 
 
 my_sol1 = Solution()
-my_sol1.merge()
+print(my_sol1.merge(nums1, m, nums2, n))
