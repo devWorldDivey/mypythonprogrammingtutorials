@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/1047. Remove All Adjacent Duplicates In String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/2176. Count Equal and Divisible Pairs in an Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/901. Online Stock Span.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/121. Best Time to Buy and Sell Stock.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure in Python/implementationofInsertionSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure in Python/implementationofInsertionSort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,13 +93,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666170614808</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Initial Commit">
-      <created>1666765702787</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1666765702787</updated>
     </task>
     <task id="LOCAL-00035" summary="Initial Commit">
       <created>1666783675210</created>
@@ -440,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667933881126</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="Initial Commit">
+      <created>1668071910439</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1668071910442</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -531,6 +528,16 @@
           <url>file://$PROJECT_DIR$/LeetCode Problems/2176. Count Equal and Divisible Pairs in an Array.py</url>
           <line>31</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode Problems/1047. Remove All Adjacent Duplicates In String.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode Problems/121. Best Time to Buy and Sell Stock.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
