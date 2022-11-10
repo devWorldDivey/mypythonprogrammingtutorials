@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Data Structure in Python/implementationofInsertionSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/1047. Remove All Adjacent Duplicates In String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/2176. Count Equal and Divisible Pairs in an Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/901. Online Stock Span.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structure in Python/implementationofInsertionSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure in Python/implementationofInsertionSort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -518,6 +521,16 @@
           <url>file://$PROJECT_DIR$/LeetCode Problems/350. Intersection of Two Arrays II.py</url>
           <line>33</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode Problems/901. Online Stock Span.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode Problems/2176. Count Equal and Divisible Pairs in an Array.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
