@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Data Structure in Python/implementationOfMergeSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/1572. Matrix Diagonal Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/151. Reverse Words in a String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/295. Find Median from Data Stream.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
