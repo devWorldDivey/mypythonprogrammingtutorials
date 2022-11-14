@@ -23,3 +23,4 @@ stones = [[0,0],[0,1],[1,0],[1,2],[2,1],[2,2]]
 
 class Solution:
     def removeStones(self, stones: list[list[int]]) -> int:
+        pass
