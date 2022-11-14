@@ -23,4 +23,13 @@ stones = [[0,0],[0,1],[1,0],[1,2],[2,1],[2,2]]
 
 class Solution:
     def removeStones(self, stones: list[list[int]]) -> int:
-        pass
+        countonxaxis = 0
+        countonyaxis = 0
+        for i in range(len(stones)):
+            for j in range(len(stones[i])):
+                pass
+
+
+
+my_sol = Solution()
+my_sol.removeStones(stones)
