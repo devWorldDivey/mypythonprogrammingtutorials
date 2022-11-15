@@ -25,6 +25,7 @@ class Solution:
     def removeStones(self, stones: list[list[int]]) -> int:
         countonxaxis = 0
         countonyaxis = 0
+        rows = defaultdict(list)
         for i in range(len(stones)):
             for j in range(len(stones[i])):
                 pass
