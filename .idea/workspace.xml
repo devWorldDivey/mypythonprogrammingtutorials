@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/1266. Minimum Time Visiting All Points.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/1252. Cells with Odd Values in a Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/1725. Number Of Rectangles That Can Form The Largest Square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/1732. Find the Highest Altitude.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/1863. Sum of All Subset XOR Totals.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,13 +96,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666170614808</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Initial Commit">
-      <created>1666961056994</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1666961056994</updated>
     </task>
     <task id="LOCAL-00048" summary="Initial Commit">
       <created>1666961140756</created>
@@ -437,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668706896016</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="Initial Commit">
+      <created>1668794679526</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1668794679527</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -543,6 +546,16 @@
           <url>file://$PROJECT_DIR$/LeetCode Problems/15. 3Sum.py</url>
           <line>23</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode Problems/1863. Sum of All Subset XOR Totals.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode Problems/1732. Find the Highest Altitude.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
