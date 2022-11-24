@@ -24,4 +24,10 @@ class Solution:
 
 words = ["abc","car","ada","racecar","cool"]
 mysol = Solution()
-print(mysol.firstPalindrome(words))
+mysol.firstPalindrome(words)
+
+a = ["a","b","c"]
+print(a[1])
+print(a[1:])
+print(a[:1])
+print(a[::-1])
