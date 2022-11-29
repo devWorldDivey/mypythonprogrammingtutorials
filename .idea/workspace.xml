@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/2225. Find Players With Zero or One Losses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/Coursera-ConvertFileTexttoUppercase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/wors.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode Problems/Medium Problems - Leetcode/380. Insert Delete GetRandom O(1).py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode Problems/Medium Problems - Leetcode/380. Insert Delete GetRandom O(1).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,13 +94,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666170614808</updated>
-    </task>
-    <task id="LOCAL-00053" summary="Initial Commit">
-      <created>1667064045937</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1667064045937</updated>
     </task>
     <task id="LOCAL-00054" summary="Initial Commit">
       <created>1667185547506</created>
@@ -440,7 +431,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669374631809</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="Initial Commit">
+      <created>1669695199493</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1669695199493</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -556,6 +554,11 @@
           <url>file://$PROJECT_DIR$/LeetCode Problems/1732. Find the Highest Altitude.py</url>
           <line>17</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode Problems/Medium Problems - Leetcode/380. Insert Delete GetRandom O(1).py</url>
+          <line>35</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
