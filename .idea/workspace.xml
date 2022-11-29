@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/907. Sum of Subarray Minimums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/2225. Find Players With Zero or One Losses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/Coursera-ConvertFileTexttoUppercase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/wors.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +58,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\LeetCode Problems\CourseSol" />
       <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\Python Tricks" />
       <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\LeetCode Problems" />
       <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\Data Structure in Python" />
@@ -93,13 +96,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666170614808</updated>
-    </task>
-    <task id="LOCAL-00052" summary="Initial Commit">
-      <created>1666976385293</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1666976385293</updated>
     </task>
     <task id="LOCAL-00053" summary="Initial Commit">
       <created>1667064045937</created>
@@ -437,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669274200658</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="Initial Commit">
+      <created>1669374631809</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1669374631809</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
