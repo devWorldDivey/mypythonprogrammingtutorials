@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Medium Problems - Leetcode/451. Sort Characters By Frequency.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/876. Middle of the Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/876. Middle of the Linked List.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,11 +56,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\Python Problems" />
       <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\LeetCode Problems\CourseSol" />
       <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\Python Tricks" />
       <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\LeetCode Problems" />
       <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\Data Structure in Python" />
-      <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials" />
     </key>
   </component>
   <component name="RunManager">
@@ -94,13 +94,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666170614808</updated>
-    </task>
-    <task id="LOCAL-00057" summary="Initial Commit">
-      <created>1667313670924</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1667313670924</updated>
     </task>
     <task id="LOCAL-00058" summary="Initial Commit">
       <created>1667322636457</created>
@@ -438,7 +431,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669884560972</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="Initial Commit">
+      <created>1670217596391</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1670217596393</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -461,12 +461,12 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LeetCode Problems/2373. Largest Local Values in a Matrix.py</url>
+          <url>file://$PROJECT_DIR$/Python Problems/2373. Largest Local Values in a Matrix.py</url>
           <line>29</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LeetCode Problems/Leetcode Problem 1588. Sum of All Odd Length Subarrays.py</url>
+          <url>file://$PROJECT_DIR$/Python Problems/Leetcode Problem 1588. Sum of All Odd Length Subarrays.py</url>
           <line>50</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
@@ -476,7 +476,7 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LeetCode Problems/2006. Count Number of Pairs With Absolute Difference K.py</url>
+          <url>file://$PROJECT_DIR$/Python Problems/2006. Count Number of Pairs With Absolute Difference K.py</url>
           <line>29</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
@@ -486,22 +486,22 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LeetCode Problems/53. Maximum Subarray.py</url>
+          <url>file://$PROJECT_DIR$/Python Problems/53. Maximum Subarray.py</url>
           <line>48</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LeetCode Problems/832. Flipping an Image.py</url>
+          <url>file://$PROJECT_DIR$/Python Problems/832. Flipping an Image.py</url>
           <line>28</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LeetCode Problems/1. Two Sum.py</url>
+          <url>file://$PROJECT_DIR$/Python Problems/1. Two Sum.py</url>
           <line>31</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LeetCode Problems/88. Merge Sorted Array.py</url>
+          <url>file://$PROJECT_DIR$/Python Problems/88. Merge Sorted Array.py</url>
           <line>37</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
@@ -511,47 +511,47 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LeetCode Problems/1544. Make The String Great.py</url>
+          <url>file://$PROJECT_DIR$/Python Problems/1544. Make The String Great.py</url>
           <line>34</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LeetCode Problems/350. Intersection of Two Arrays II.py</url>
+          <url>file://$PROJECT_DIR$/Python Problems/350. Intersection of Two Arrays II.py</url>
           <line>33</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LeetCode Problems/901. Online Stock Span.py</url>
+          <url>file://$PROJECT_DIR$/Python Problems/901. Online Stock Span.py</url>
           <line>46</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LeetCode Problems/2176. Count Equal and Divisible Pairs in an Array.py</url>
+          <url>file://$PROJECT_DIR$/Python Problems/2176. Count Equal and Divisible Pairs in an Array.py</url>
           <line>31</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LeetCode Problems/1047. Remove All Adjacent Duplicates In String.py</url>
+          <url>file://$PROJECT_DIR$/Python Problems/1047. Remove All Adjacent Duplicates In String.py</url>
           <line>25</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LeetCode Problems/121. Best Time to Buy and Sell Stock.py</url>
+          <url>file://$PROJECT_DIR$/Python Problems/121. Best Time to Buy and Sell Stock.py</url>
           <line>25</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LeetCode Problems/15. 3Sum.py</url>
+          <url>file://$PROJECT_DIR$/Python Problems/15. 3Sum.py</url>
           <line>23</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LeetCode Problems/1863. Sum of All Subset XOR Totals.py</url>
+          <url>file://$PROJECT_DIR$/Python Problems/1863. Sum of All Subset XOR Totals.py</url>
           <line>32</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LeetCode Problems/1732. Find the Highest Altitude.py</url>
+          <url>file://$PROJECT_DIR$/Python Problems/1732. Find the Highest Altitude.py</url>
           <line>17</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
