@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/2185. Counting Words With a Given Prefix.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/876. Middle of the Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/876. Middle of the Linked List.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
