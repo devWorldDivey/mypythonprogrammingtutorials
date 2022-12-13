@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/942. DI String Match.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/1979. Find Greatest Common Divisor of Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/2089. Find Target Indices After Sorting Array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/942. DI String Match.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/942. DI String Match.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,13 +96,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666170614808</updated>
-    </task>
-    <task id="LOCAL-00059" summary="Initial Commit">
-      <created>1667323149962</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1667323149962</updated>
     </task>
     <task id="LOCAL-00060" summary="Initial Commit">
       <created>1667323203507</created>
@@ -438,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670571339414</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="Initial Commit">
+      <created>1670664661483</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1670664661483</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -564,6 +566,11 @@
           <url>file://$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/1704. Determine if String Halves Are Alike.py</url>
           <line>30</line>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/2089. Find Target Indices After Sorting Array.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

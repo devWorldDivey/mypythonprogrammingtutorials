@@ -13,8 +13,18 @@ Output: [0,4,1,3,2]
 
 class Solution:
     def diStringMatch(self, s: str) -> list[int]:
-        pass
-
+        n = len(s)
+        d = 0
+        res = []
+        for i in s:
+            if i == "I":
+                res.append(n)
+                n -= 1
+            else:
+                res.append(d)
+                d+=1
+        res.append(d)
+        return res
 
 mysol = Solution()
 mysol.diStringMatch(s = "IDID")
