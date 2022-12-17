@@ -18,7 +18,13 @@ class Solution:
     def repeatedNTimes(self, nums: list[int]) -> int:
         A = nums
         B = set(A)
-        return (sum(A) - sum(B)) // (len(A) - len(B))
+        #return (sum(A) - sum(B)) // (len(A) - len(B))
+
+        x = list(range(5))
+        print(x)
+        fruit = 'Banana'
+        fruit[0] = 'b'
+        print(fruit)
 
 
 
