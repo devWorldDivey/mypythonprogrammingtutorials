@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/Assignment2Chp8Coursera.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AssignmentChp8Coursera.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/mbox-short.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/romeo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/1450. Number of Students Doing Homework at a Given Time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/1748. Sum of Unique Elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/1475. Final Prices With a Special Discount in a Shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/2363. Merge Similar Items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Medium Problems - Leetcode/841. Keys and Rooms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/961. N-Repeated Element in Size 2N Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/961. N-Repeated Element in Size 2N Array.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,13 +96,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666170614808</updated>
-    </task>
-    <task id="LOCAL-00062" summary="Initial Commit">
-      <created>1667379817421</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1667379817422</updated>
     </task>
     <task id="LOCAL-00063" summary="Initial Commit">
       <created>1667403499573</created>
@@ -444,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671096458336</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="Initial Commit">
+      <created>1671274834634</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1671274834635</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -575,6 +571,11 @@
           <url>file://$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/2089. Find Target Indices After Sorting Array.py</url>
           <line>26</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode Problems/Medium Problems - Leetcode/841. Keys and Rooms.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
