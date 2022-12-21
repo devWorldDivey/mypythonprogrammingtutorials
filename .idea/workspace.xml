@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Data Structure in Python/implementationOfDoublyLinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure in Python/LinkedList and Doubly LinkList/implementationOfDoublyLinkedList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure in Python/implementationOfLinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure in Python/LinkedList and Doubly LinkList/implementationOfLinkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/Assignment 9.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/2206. Divide Array Into Equal Pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Medium Problems - Leetcode/886. Possible Bipartition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,11 +58,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\Data Structure in Python\LinkedList and Doubly LinkList" />
       <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\Python Problems" />
       <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\LeetCode Problems\CourseSol" />
       <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\Python Tricks" />
       <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\LeetCode Problems" />
-      <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\Data Structure in Python" />
     </key>
   </component>
   <component name="RunManager">
@@ -94,13 +96,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666170614808</updated>
-    </task>
-    <task id="LOCAL-00064" summary="Initial Commit">
-      <created>1667446729916</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1667446729916</updated>
     </task>
     <task id="LOCAL-00065" summary="Initial Commit">
       <created>1667479322406</created>
@@ -438,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671513860352</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="Initial Commit">
+      <created>1671525093028</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1671525093028</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
