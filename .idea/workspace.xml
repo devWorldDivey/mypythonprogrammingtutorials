@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/1710. Maximum Units on a Truck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/Assignment 10.2 Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/CourseraChp11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/Hello Word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/RegularExpression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/regex_sum_1648071.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/1337. The K Weakest Rows in a Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/2154. Keep Multiplying Found Values by Two.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/2255. Count Prefixes of a Given String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/2357. Make Array Zero by Subtracting Equal Amounts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/2389. Longest Subsequence With Limited Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/682. Baseball Game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,13 +105,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666170614808</updated>
-    </task>
-    <task id="LOCAL-00067" summary="Initial Commit">
-      <created>1667552732018</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1667552732018</updated>
     </task>
     <task id="LOCAL-00068" summary="Initial Commit">
       <created>1667562251155</created>
@@ -438,7 +442,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671727488578</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="Initial Commit">
+      <created>1671795815858</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1671795815858</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -574,6 +585,26 @@
           <url>file://$PROJECT_DIR$/LeetCode Problems/Medium Problems - Leetcode/841. Keys and Rooms.py</url>
           <line>22</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/1710. Maximum Units on a Truck.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/2389. Longest Subsequence With Limited Sum.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/2389. Longest Subsequence With Limited Sum.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
