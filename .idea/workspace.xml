@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/Assignment 10.2 Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/CourseraChp11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/Hello Word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/RegularExpression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/regex_sum_1648071.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/1337. The K Weakest Rows in a Matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/2154. Keep Multiplying Found Values by Two.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/2255. Count Prefixes of a Given String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/2357. Make Array Zero by Subtracting Equal Amounts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/2389. Longest Subsequence With Limited Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/682. Baseball Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/1356. Sort Integers by The Number of 1 Bits.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,13 +94,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666170614808</updated>
-    </task>
-    <task id="LOCAL-00068" summary="Initial Commit">
-      <created>1667562251155</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1667562251155</updated>
     </task>
     <task id="LOCAL-00069" summary="Initial Commit">
       <created>1667585565194</created>
@@ -449,7 +431,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671795815858</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="Initial Commit">
+      <created>1672986899621</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1672986899621</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
