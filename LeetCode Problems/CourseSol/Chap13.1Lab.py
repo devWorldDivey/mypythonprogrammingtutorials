@@ -1,28 +1,24 @@
-"""
-Find the link at position 3 (the first name is 1). Follow that link. Repeat this process 4 times.
-The answer is the last name that you retrieve.
-Sequence of names: Fikret Montgomery Mhairade Butchi Anayah
-"""
-# To run this, download the BeautifulSoup zip file
-# http://www.py4e.com/code3/bs4.zip
-# and unzip it in the same directory as this file
-
-import urllib.request,urllib.parse,urllib.error
+import urllib.request, urllib.parse, urllib.error
 from bs4 import BeautifulSoup
-url = input("Enter url:")
-count = int(input("Enter count :"))
-pos = int(input("Enter Pos :"))
-urllist = list()
-for i in range(count):
-    html = urllib.request.urlopen(url)
-    soup = BeautifulSoup(html,"html.parser")
-    tags = soup("a")
-    #print("Retriving URL:",url)
-    taglist = list()
-    for tag in tags:
-        y = tag.get("href",None)
-        taglist.append(y)
-    url = taglist[pos]
-    urllist.append(url)
-print("Last Url:",urllist[-2])
+import ssl
 
+ctx = ssl.create_default_context()
+ctx.check_hostname = False
+ctx.verify_mode = ssl.CERT_NONE
+
+url = input('Enter - ')
+position = int(input("Enter position:"))-1
+count = int(input("Enter count:"))
+html = urllib.request.urlopen(url, context=ctx).read()
+soup = BeautifulSoup(html, 'html.parser')
+Sequence = []
+tags = soup('a')
+for i in range(count):
+    link = tags[position].get('href', None)
+    print("Retrieving:",link)
+    Sequence.append(tags[position].contents[0])
+    html = urllib.request.urlopen(link, context=ctx).read()
+    soup = BeautifulSoup(html, 'html.parser')
+    tags = soup('a')
+    link = tags[position].get('href', None)
+print(Sequence[-1])
