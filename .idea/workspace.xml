@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/2057. Smallest Index With Equal Value.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Medium Problems - Leetcode/172. Factorial Trailing Zeroes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/Week5Exercise1.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/Week5Exercise1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/2194. Cells in a Range on an Excel Sheet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/2535. Difference Between Element Sum and Digit Sum of an Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/997. Find the Town Judge.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,13 +98,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666170614808</updated>
-    </task>
-    <task id="LOCAL-00075" summary="Initial Commit">
-      <created>1667807221760</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1667807221761</updated>
     </task>
     <task id="LOCAL-00076" summary="Initial Commit">
       <created>1667810059753</created>
@@ -439,7 +435,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673952108930</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="Initial Commit">
+      <created>1674018733282</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1674018733282</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -610,6 +613,11 @@
           <url>file://$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/2057. Smallest Index With Equal Value.py</url>
           <line>16</line>
           <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/997. Find the Town Judge.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
