@@ -5,271 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/Group_18.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/Introduction to statistical methods.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/MFML A1 Cover.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/MFML A1 Q1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/MFML A1 Q5.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/MFML ASS1 Q10.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/MFML ASS1 Q9.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/ML/Group24_Cardetails.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/ML/Group24_Cardetails.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/ML/vertopal_85a800d3ae464d44b0be75258d029db9/003c0fee3a9e07693356940834f5d9cc6a4b859d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/ML/vertopal_85a800d3ae464d44b0be75258d029db9/0f62f05a0746321d7c8df4a85ff5cac76089927c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/ML/vertopal_85a800d3ae464d44b0be75258d029db9/14ffcc47a48a5b74c69ce9a3eb932d59b2bfa0b4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/ML/vertopal_85a800d3ae464d44b0be75258d029db9/34f007836b9d40f46eb8e66b6dde6c8efde1c123.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/ML/vertopal_85a800d3ae464d44b0be75258d029db9/3b39624448d95bb7f5c7000195fb504e082b5262.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/ML/vertopal_85a800d3ae464d44b0be75258d029db9/437486ba51396f4af9985b16f5bca7c1618f9574.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/ML/vertopal_85a800d3ae464d44b0be75258d029db9/4fa0d8cab93166ab4d85b35a83d8541c2555fb85.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/ML/vertopal_85a800d3ae464d44b0be75258d029db9/6837d78f0e9fa617fcad6329c542576e4746e7ea.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/ML/vertopal_85a800d3ae464d44b0be75258d029db9/72f52aa5c056bd4129150339a70d13c8220906e2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/ML/vertopal_85a800d3ae464d44b0be75258d029db9/778d0ba6b4a09e9634532b9a6f4f9fcac84db813.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/ML/vertopal_85a800d3ae464d44b0be75258d029db9/77d9c325859782b8592c306ff473ac5faefc474f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/ML/vertopal_85a800d3ae464d44b0be75258d029db9/7ae95a10ca56a79bd946c3c2a1e9a8e91e04e587.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/ML/vertopal_85a800d3ae464d44b0be75258d029db9/7b003086c4d0c014ac90085a72a0efb8a1e423dd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/ML/vertopal_85a800d3ae464d44b0be75258d029db9/9e9ac54c544f56f7d7855352568399bc01ef6e7c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/ML/vertopal_85a800d3ae464d44b0be75258d029db9/ab573c9ebd9b9177d5d69d3bd9e4a29662121ae6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/ML/vertopal_85a800d3ae464d44b0be75258d029db9/ceb8aee8750f7339923b9104599e8f7336798364.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/ML/vertopal_85a800d3ae464d44b0be75258d029db9/d601012f98fd440fef1562f35d788f88b5bb85b3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/ML/vertopal_85a800d3ae464d44b0be75258d029db9/d749699c94fcf15cac9f21abd2c2fc04650f0079.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/Maurits Kaptein, Edwin van den Heuvel - Statistics_221112_155047.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/Q6,7,8.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/q2mfml.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/q3mfml.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Assignment/q4mfml.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Car Price Prediction/Car_Purchasing_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/MFML.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/MachineLearning.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Statistics for Data Scientists.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/addtwo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/argfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/argtest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/authors.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/avelist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/avenum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/average.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/badhtml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/bs4.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/bs4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/bs4/builder/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/bs4/builder/_html5lib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/bs4/builder/_htmlparser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/bs4/builder/_lxml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/bs4/dammit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/bs4/diagnose.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/bs4/element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/bs4/testing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/bs4/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/bs4/tests/test_builder_registry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/bs4/tests/test_docs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/bs4/tests/test_html5lib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/bs4/tests/test_htmlparser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/bs4/tests/test_lxml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/bs4/tests/test_soup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/bs4/tests/test_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/celsius.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/cleanup.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/clown.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/copytildone1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/copytildone2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/count1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/count2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/count3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/curl1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/curl2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/curl3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/db1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/db2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/egg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/elev.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/emaildb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/fahren.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/fahren2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/geodata.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/geodata/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/geodata/geodump.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/geodata/geoload.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/geodata/where.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/geodata/where.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/geodata/where.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/geojson.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/georeq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/geoxml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/gitpulls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/gitsecrets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/giturl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/gmane.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/gmane/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/gmane/d3.layout.cloud.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/gmane/d3.v2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/gmane/gbasic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/gmane/gline.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/gmane/gline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/gmane/gmane.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/gmane/gmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/gmane/gword.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/gmane/gword.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/gmane/gyear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/gmane/mapping.sqlite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/grade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/greet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/grep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/hidden.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/intro-short.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/intro.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/json1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/json2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/largest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/lyrics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/mailcount.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/mailtop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/mbox-short.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/mbox.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/notry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/oauth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/open.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/opengeo.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/opengeo/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/opengeo/geodump.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/opengeo/geoload.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/opengeo/where.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/opengeo/where.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/opengeo/where.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/__init__.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/builder/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/builder/__init__.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/builder/_html5lib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/builder/_html5lib.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/builder/_htmlparser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/builder/_htmlparser.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/builder/_lxml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/builder/_lxml.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/dammit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/dammit.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/diagnose.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/diagnose.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/element.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/testing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/testing.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/tests/test_builder_registry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/tests/test_docs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/tests/test_html5lib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/tests/test_html5lib.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/tests/test_htmlparser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/tests/test_lxml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/tests/test_lxml.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/tests/test_soup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/tests/test_soup.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/tests/test_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/bs4/tests/test_tree.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/d3.v2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/force.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/force.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/force.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/spdump.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/spider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/spider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/spjson.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/sprank.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pagerank/spreset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/party.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/party1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/party2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/party3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/party4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/party5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/party6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pay2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/pay3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/re01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/re02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/re03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/re04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/re05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/re06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/re07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/re08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/re09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/re10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/re11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/re12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/re13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/re14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/re15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/romeo-full.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/romeo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/roster.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/roster/roster.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/roster/roster_data_sample.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/search1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/search10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/search2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/search3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/search4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/search5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/search6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/search7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/search8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/search9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/socket1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/socket2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/soft.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/spamave.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/tracks.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/tracks/Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/tracks/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/tracks/tracks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/tryexcept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/trynum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/twdump.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/twfriends.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/twitter1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/twitter2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/twjoin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/twspider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/twtest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/twurl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/txtcheck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/txtcheck2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/txtcheck3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/txtcount.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/txtdelete.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/txtmd5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/txtsize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/urljpeg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/urllib1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/urllib2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/urllink2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/urllink3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/urllinks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/urlregex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/urlwords.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/whathour.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/wikidata.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/wikigrade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/wordlist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/words.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/xml1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/code3/code3/xml2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/desktop.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/understanding-machine-learning-theory-algorithms.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/ConnectingwithSQLlite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/emaildb.sqlite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/1137. N-th Tribonacci Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/58. Length of Last Word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/Week2Exercise1SQLliteintegrationwithpython.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/mbox.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode Problems/CourseSol/emaildb.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/emaildb.sqlite" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -303,28 +42,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/diveyanand/PycharmProjects/mypythonprogrammingtutorials/LeetCode Problems/CourseSol",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/diveyanand/PycharmProjects/mypythonprogrammingtutorials/LeetCode Problems/CourseSol&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "Python"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\LeetCode Problems\CourseSol" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\LeetCode Problems\CourseSol" />
       <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\Data Structure in Python\LinkedList and Doubly LinkList" />
       <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\Python Problems" />
-      <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\LeetCode Problems\CourseSol" />
       <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\Python Tricks" />
       <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\LeetCode Problems" />
     </key>
@@ -360,13 +99,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666170614808</updated>
-    </task>
-    <task id="LOCAL-00080" summary="Initial Commit">
-      <created>1667910085991</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1667910085991</updated>
     </task>
     <task id="LOCAL-00081" summary="Initial Commit">
       <created>1667919083693</created>
@@ -704,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674923408814</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="Initial Commit">
+      <created>1675069727425</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1675069727425</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
