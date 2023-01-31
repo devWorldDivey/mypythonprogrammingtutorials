@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/66. Plus One.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/Breakandcontinuekeywordtest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AIML-Algorithms/Graph Implementation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode Problems/CourseSol/Week2Exercise1SQLliteintegrationwithpython.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/Week2Exercise1SQLliteintegrationwithpython.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode Problems/CourseSol/emaildb.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/emaildb.sqlite" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,13 +97,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666170614808</updated>
-    </task>
-    <task id="LOCAL-00082" summary="Initial Commit">
-      <created>1667933881126</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1667933881126</updated>
     </task>
     <task id="LOCAL-00083" summary="Initial Commit">
       <created>1668071910439</created>
@@ -444,7 +434,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675087115144</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="Initial Commit">
+      <created>1675177739550</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1675177739550</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -625,11 +622,6 @@
           <url>file://$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/20. Valid Parentheses.py</url>
           <line>33</line>
           <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/66. Plus One.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
