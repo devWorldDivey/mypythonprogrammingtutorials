@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/67. Add Binary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AIML-Algorithms/BinaryTree Implementation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AIML-Algorithms/LInkedList Implementation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Track_SQLITIE_Question/Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Track_SQLITIE_Question/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Track_SQLITIE_Question/trackdb.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/Track_SQLITIE_Question/tracks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/TracksSQLITE_Exampleclass/Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/TracksSQLITE_Exampleclass/trackdb.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/AIML-Couse Material/TracksSQLITE_Exampleclass/tracks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIML-Algorithms/Graph Implementation.py" beforeDir="false" afterPath="$PROJECT_DIR$/AIML-Algorithms/Graph Implementation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structure in Python/implmentationofTreeDataStructureInPython.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure in Python/implmentationofTreeDataStructureInPython.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/67. Add Binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/67. Add Binary.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +56,7 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/diveyanand/PycharmProjects/mypythonprogrammingtutorials/LeetCode Problems/CourseSol&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/diveyanand/PycharmProjects/mypythonprogrammingtutorials/LeetCode Problems/CourseSol/AIML-Couse Material/Track_SQLITIE_Question&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -56,6 +67,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\LeetCode Problems\CourseSol\AIML-Couse Material\Track_SQLITIE_Question" />
+      <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\LeetCode Problems\CourseSol\AIML-Couse Material\TracksSQLITE" />
       <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\LeetCode Problems\CourseSol" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -97,13 +110,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666170614808</updated>
-    </task>
-    <task id="LOCAL-00084" summary="Initial Commit">
-      <created>1668078928057</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1668078928057</updated>
     </task>
     <task id="LOCAL-00085" summary="Initial Commit">
       <created>1668186966603</created>
@@ -441,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675180578959</updated>
     </task>
-    <option name="localTasksCounter" value="133" />
+    <task id="LOCAL-00133" summary="Initial Commit">
+      <created>1675233156203</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1675233156203</updated>
+    </task>
+    <option name="localTasksCounter" value="134" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
