@@ -38,6 +38,8 @@ class LinkedList:
                 else:
                     temp = temp.next
 
+
+
 mylist = LinkedList(1)
 mylist.append(2)
 mylist.append(2)
