@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Data Structure in Python/MaximumDepthofTreeNode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/Python_Json_SQLLITE/Week5Exercise_JSONIMPORTINSQLLITE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/Python_Json_SQLLITE/roster_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/CourseSol/Python_Json_SQLLITE/rosterdb.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/DSA-Preparation/Easy/136. Single Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/1380. Lucky Numbers in a Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/2475. Number of Unequal Triplets in Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Medium Problems - Leetcode/904. Fruit Into Baskets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodata/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodata/geodata.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodata/geodump.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodata/geoload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodata/where.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodata/where.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodata/where.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIML-Algorithms/BinaryTree Implementation.py" beforeDir="false" afterPath="$PROJECT_DIR$/AIML-Algorithms/BinaryTree Implementation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIML-Algorithms/LInkedList Implementation.py" beforeDir="false" afterPath="$PROJECT_DIR$/AIML-Algorithms/LInkedList Implementation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,33 +50,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/diveyanand/PycharmProjects/mypythonprogrammingtutorials/LeetCode Problems/CourseSol/Python_Json_SQLLITE",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/diveyanand/PycharmProjects/mypythonprogrammingtutorials&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "Python"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials" />
       <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\LeetCode Problems\CourseSol\Python_Json_SQLLITE" />
       <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\LeetCode Problems\CourseSol\AIML-Couse Material\Track_SQLITIE_Question" />
       <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\LeetCode Problems\CourseSol\AIML-Couse Material\TracksSQLITE" />
       <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\LeetCode Problems\CourseSol" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\LeetCode Problems\DSA-Preparation" />
       <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\LeetCode Problems\Easy Problems - Leetcode" />
       <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\LeetCode Problems\CourseSol" />
       <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\Data Structure in Python\LinkedList and Doubly LinkList" />
       <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\Python Problems" />
-      <recent name="C:\Users\diveyanand\PycharmProjects\mypythonprogrammingtutorials\Python Tricks" />
     </key>
   </component>
   <component name="RunManager">
@@ -105,13 +111,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666170614808</updated>
-    </task>
-    <task id="LOCAL-00086" summary="Initial Commit">
-      <created>1668348546790</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1668348546790</updated>
     </task>
     <task id="LOCAL-00087" summary="Initial Commit">
       <created>1668360085747</created>
@@ -449,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675510174088</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="Initial Commit">
+      <created>1675675512085</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1675675512085</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -630,6 +636,16 @@
           <url>file://$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/20. Valid Parentheses.py</url>
           <line>33</line>
           <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode Problems/Medium Problems - Leetcode/904. Fruit Into Baskets.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LeetCode Problems/Easy Problems - Leetcode/1380. Lucky Numbers in a Matrix.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
