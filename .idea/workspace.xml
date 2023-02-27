@@ -5,82 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/DSA-Preparation/DataStructureAlgo_Practise/SlidingWindow/SubArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/DSA-Preparation/DataStructureAlgo_Practise/TreeImplement_22Feb2022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/DSA-Preparation/DataStructureAlgo_Practise/Trees.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/DSA-Preparation/DataStructureAlgo_Practise/Tutort_Exercise1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/DSA-Preparation/Easy/137. Single Number II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/DSA-Preparation/Easy/1491. Average Salary Excluding the Minimum and Maximum Salary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/DSA-Preparation/Easy/1523. Count Odd Numbers in an Interval Range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/DSA-Preparation/Easy/1779. Find Nearest Point That Has the Same X or Y Coordinate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/DSA-Preparation/Easy/191. Number of 1 Bits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/DSA-Preparation/Easy/976. Largest Perimeter Triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/DSA-Preparation/Medium/1476. Subrectangle Queries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/DSA-Preparation/Medium/3. Longest Substring Without Repeating Characters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Crawler_spider Projects/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Crawler_spider Projects/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Crawler_spider Projects/d3.v2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Crawler_spider Projects/force.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Crawler_spider Projects/force.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Crawler_spider Projects/force.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Crawler_spider Projects/spdump.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Crawler_spider Projects/spider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Crawler_spider Projects/spider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Crawler_spider Projects/spjson.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Crawler_spider Projects/sprank.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web Crawler_spider Projects/spreset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/.idea/pagerank.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/__init__.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/builder/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/builder/__init__.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/builder/_html5lib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/builder/_html5lib.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/builder/_htmlparser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/builder/_htmlparser.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/builder/_lxml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/builder/_lxml.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/dammit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/dammit.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/diagnose.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/diagnose.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/element.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/testing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/testing.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/tests/test_builder_registry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/tests/test_docs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/tests/test_html5lib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/tests/test_html5lib.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/tests/test_htmlparser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/tests/test_lxml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/tests/test_lxml.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/tests/test_soup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/tests/test_soup.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/tests/test_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/bs4/tests/test_tree.py.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/d3.v2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/force.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/force.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/force.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/spdump.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/spider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/spider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/spider.sqlite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/spjson.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/sprank.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagerank/pagerank/spreset.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode Problems/DSA-Preparation/Easy/136. Single Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode Problems/DSA-Preparation/Easy/136. Single Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode Problems/DSA-Preparation/Easy/202. Happy Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode Problems/DSA-Preparation/Easy/202. Happy Number.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,13 +102,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666170614808</updated>
-    </task>
-    <task id="LOCAL-00088" summary="Initial Commit">
-      <created>1668404844388</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1668404844388</updated>
     </task>
     <task id="LOCAL-00089" summary="Initial Commit">
       <created>1668404853255</created>
@@ -520,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676824336423</updated>
     </task>
-    <option name="localTasksCounter" value="137" />
+    <task id="LOCAL-00137" summary="Initial Commit">
+      <created>1677520601951</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1677520601951</updated>
+    </task>
+    <option name="localTasksCounter" value="138" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
