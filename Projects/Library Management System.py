@@ -1,5 +1,6 @@
 from PyQt5.QtWidgets import QApplication, QMainWindow, QLabel, QPushButton, QLineEdit, QMessageBox
 
+
 class LibraryManagementSystem(QMainWindow):
     def __init__(self):
         super().__init__()
