@@ -53,10 +53,62 @@ class Solution:
         return resultmatrix
 
     def majorityElement(self, nums: list[int]) -> int:
-        m = len(nums)//2
-        mydict = {}
+        counter = 0
+        element = 0
+        for num in nums:
+            if counter == 0:
+                element = num
+            counter += (1 if num == element else -1)
+        return element
+
+    def moveZeroes(self, nums: list[int]) -> None:
         for i in nums:
-            mydict[i]: nums.count(i)
+            if i == 0:
+                nums.remove(0)
+                nums.append(0)
+        return nums
+
+    def isPowerOfTwo(self, n: int) -> bool:
+        """        if n == 1:
+            return True
+        else:
+            while n != 1:
+                if n < 1:
+                    return False
+                x = n/2
+                n = x
+        if n == 1:
+            return True """
+        return ((n&(n-1))==0)
+
+    def isAnagram(self, s: str, t: str) -> bool:
+        return (sorted(s)==sorted(t))
+
+    def isUgly(self, n: int) -> bool:
+        if n <= 0:
+            return False
+        while n != 1:
+            if n%2 == 0:
+                n=n//2
+            elif n%3 == 0:
+                n=n//3
+            elif n%5 == 0:
+                n=n//5
+            else:
+                return False
+        return True
+
+    def reverseVowels(self, s: str) -> str:
+        lst = ["a@b.com,c@d.com"]
+        for i in lst:
+            print(i.strip("@")[0])
+
+
+
+
+
+
+
 
 
 
@@ -68,4 +120,9 @@ mysol.numJewelsInStones(jewels = "aA", stones = "aAAbbbb")
 mysol.minimumAbsDifference(arr = [4,2,1,3])
 mysol.threeConsecutiveOdds(arr = [1,2,34,3,4,5,7,23,12])
 mysol.transpose(matrix = [[1,2,3],[4,5,6],[7,8,9]])
-mysol.majorityElement(nums = [3,4,3])
+mysol.majorityElement(nums = [1,2,1])
+mysol.moveZeroes(nums = [0,1,0,3,12])
+mysol.isPowerOfTwo(n = 16)
+mysol.isAnagram(s = "anagram", t = "nagaram")
+mysol.isUgly(n = 14)
+mysol.reverseVowels("Leetcode")

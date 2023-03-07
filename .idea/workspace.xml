@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Python Problems/OOPS Concept for Interview process.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TutortAcademy/oops concepts.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TutortAcademy/AssignmentPart2Warmupsession.py" beforeDir="false" afterPath="$PROJECT_DIR$/TutortAcademy/AssignmentPart2Warmupsession.py" afterDir="false" />
     </list>
@@ -17,6 +19,11 @@
     <option name="groupingKeys">
       <option value="directory" />
     </option>
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Desktop" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -46,7 +53,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/diveyanand/PycharmProjects/mypythonprogrammingtutorials&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/diveyanand/Desktop&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -102,13 +109,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666170614808</updated>
-    </task>
-    <task id="LOCAL-00091" summary="Initial Commit">
-      <created>1668518148946</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1668518148946</updated>
     </task>
     <task id="LOCAL-00092" summary="Initial Commit">
       <created>1668533117106</created>
@@ -446,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677641547749</updated>
     </task>
-    <option name="localTasksCounter" value="140" />
+    <task id="LOCAL-00140" summary="Initial Commit">
+      <created>1677659253961</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1677659253961</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -647,6 +654,11 @@
           <url>file://$PROJECT_DIR$/LeetCode Problems/DSA-Preparation/Easy/976. Largest Perimeter Triangle.py</url>
           <line>19</line>
           <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TutortAcademy/AssignmentPart2Warmupsession.py</url>
+          <line>126</line>
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
