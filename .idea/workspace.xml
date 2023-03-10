@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fda0c84e-321a-407f-892c-efdb69e840bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Projects/Project Django and ToDo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TutortAcademy/Assignmentpart3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Library Management System.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Library Management System.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TutortAcademy/AssignmentPart2Warmupsession.py" beforeDir="false" afterPath="$PROJECT_DIR$/TutortAcademy/AssignmentPart2Warmupsession.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,13 +109,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666170614808</updated>
-    </task>
-    <task id="LOCAL-00094" summary="Initial Commit">
-      <created>1668705447036</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1668705447036</updated>
     </task>
     <task id="LOCAL-00095" summary="Initial Commit">
       <created>1668706896015</created>
@@ -451,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678188367953</updated>
     </task>
-    <option name="localTasksCounter" value="143" />
+    <task id="LOCAL-00143" summary="Initial Commit">
+      <created>1678190568781</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1678190568782</updated>
+    </task>
+    <option name="localTasksCounter" value="144" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -655,7 +657,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/TutortAcademy/AssignmentPart2Warmupsession.py</url>
-          <line>126</line>
+          <line>167</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
