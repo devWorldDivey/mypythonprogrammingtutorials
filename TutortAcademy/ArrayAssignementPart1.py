@@ -9,5 +9,26 @@ class Solution:
                 sol_dict[nums[i]] = i
             else:
                 return [sol_dict[diff],i]
+
+
+#2. https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+    def twoSum1(self, numbers: list[int], target: int) -> list[int]:
+        i = 0 
+        j = len(numbers)-1
+        while i <= j:
+            if numbers[i] + numbers[j] == target:
+                return [i+1,j+1]
+            elif numbers[i] + numbers[j] < target:
+                i += 1   
+            else:             
+                j -= 1
+
+#3. https://leetcode.com/problems/merge-sorted-array/
+
+
+
+
+# Object and method calling
 mysol = Solution()
 mysol.twoSum([2,7,11,15], target = 9)
+print(mysol.twoSum1([2,7,11,15], target = 9))
